@@ -33,7 +33,7 @@ export default function Cta() {
                   href="/contact"
                 >
                   <span className="relative inline-flex items-center">
-                    Shedule a Meeting
+                    Schedule a Meeting
                     <span className="ml-1 tracking-normal text-white/50 transition-transform group-hover:translate-x-0.5">
                       -&gt;
                     </span>
