@@ -105,7 +105,7 @@ export default function Privacy() {
           us at:
         </p>
         <p>
-          📧 <strong>Email</strong>: [Your Contact Email] 🌍{" "}
+          📧 <strong>Email</strong>: Jarroyopont@gmail.com <br></br>🌍{" "}
           <strong>Website</strong>:{" "}
           <a
             href="https://story-co.com"
