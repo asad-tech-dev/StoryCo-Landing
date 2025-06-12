@@ -16,49 +16,49 @@ const testimonials = [
   {
     img: TestimonialImg01,
     name: "MaKayla P.",
-    company: "Disney",
+    company: "Versora",
     content:
       "Finding high-quality content used to be a hassle, but this agency changed everything. Their community of talented writers delivers exceptional content tailored to my brand’s voice.",
   },
   {
     img: TestimonialImg02,
     name: "Andrew K.",
-    company: "Samsung",
+    company: "Synthora",
     content:
       "Working with this agency has been a game-changer. Their writers understand exactly what I need and consistently produce well-researched, engaging content that resonates with my audience.",
   },
   {
     img: TestimonialImg03,
     name: "Lucy D.",
-    company: "Rio",
+    company: "Orbitec",
     content:
       "I struggled to keep up with content demands, but this platform made it effortless. The writers here are skilled, reliable, and always deliver on time.",
   },
   {
     img: TestimonialImg04,
     name: "Pavel M.",
-    company: "Canon",
+    company: "Quanticraft",
     content:
       "This agency has been my go-to for content creation. Their network of expert writers ensures I get top-notch articles, blogs, and website copy whenever I need it.",
   },
   {
     img: TestimonialImg05,
     name: "Miriam E.",
-    company: "Cadbury",
+    company: "Lumina Works",
     content:
       "Outsourcing content used to be hit or miss, but this agency changed the game. The quality, creativity, and professionalism of their writers are unmatched.",
   },
   {
     img: TestimonialImg06,
     name: "Eloise V.",
-    company: "Maffell",
+    company: "Braventa",
     content:
       "Thanks to this platform, I no longer stress about content creation. Their writers are amazing, delivering compelling and SEO-friendly content that boosts my brand’s online presence.",
   },
   {
     img: TestimonialImg07,
     name: "Pierre-Gilles L.",
-    company: "Binance",
+    company: "Createure",
     content:
       "This agency has been a lifesaver for my business! Their writers create content that not only meets my expectations but also engages my audience perfectly.",
   },
@@ -72,7 +72,7 @@ const testimonials = [
   {
     img: TestimonialImg09,
     name: "Mary P.",
-    company: "Ray Ban",
+    company: "Bitnest",
     content:
       "The writers on this platform truly understand storytelling. Every piece they deliver is well-crafted, engaging, and perfectly aligned with my brand’s vision.",
   },
