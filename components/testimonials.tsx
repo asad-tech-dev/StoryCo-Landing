@@ -18,14 +18,14 @@ const testimonials = [
     name: "MaKayla P.",
     company: "Versora",
     content:
-      "Finding high-quality content used to be a hassle, but this agency changed everything. Their community of talented writers delivers exceptional content tailored to my brand’s voice.",
+      "Finding high-quality content used to be a hassle, but story-co changed everything. Their community of talented writers delivers exceptional content tailored to my brand’s voice.",
   },
   {
     img: TestimonialImg02,
     name: "Andrew K.",
     company: "Synthora",
     content:
-      "Working with this agency has been a game-changer. Their writers understand exactly what I need and consistently produce well-researched, engaging content that resonates with my audience.",
+      "Working with story-co has been a game-changer. Their writers understand exactly what I need and consistently produce well-researched, engaging content that resonates with my audience.",
   },
   {
     img: TestimonialImg03,
@@ -39,14 +39,14 @@ const testimonials = [
     name: "Pavel M.",
     company: "Quanticraft",
     content:
-      "This agency has been my go-to for content creation. Their network of expert writers ensures I get top-notch articles, blogs, and website copy whenever I need it.",
+      "Story-co has been my go-to for content creation. Their network of expert writers ensures I get top-notch articles, blogs, and website copy whenever I need it.",
   },
   {
     img: TestimonialImg05,
     name: "Miriam E.",
     company: "Lumina Works",
     content:
-      "Outsourcing content used to be hit or miss, but this agency changed the game. The quality, creativity, and professionalism of their writers are unmatched.",
+      "Outsourcing content used to be hit or miss, but story-co changed the game. The quality, creativity, and professionalism of their writers are unmatched.",
   },
   {
     img: TestimonialImg06,
@@ -60,7 +60,7 @@ const testimonials = [
     name: "Pierre-Gilles L.",
     company: "Createure",
     content:
-      "This agency has been a lifesaver for my business! Their writers create content that not only meets my expectations but also engages my audience perfectly.",
+      "Story-co has been a lifesaver for my business! Their writers create content that not only meets my expectations but also engages my audience perfectly.",
   },
   {
     img: TestimonialImg08,
