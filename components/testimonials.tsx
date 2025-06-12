@@ -65,7 +65,7 @@ const testimonials = [
   {
     img: TestimonialImg08,
     name: "Danielle K.",
-    company: "Forbes Inc.",
+    company: "Inkspire Studio",
     content:
       "I’ve worked with many content services, but none compare to this one. The writers are talented, responsive, and always deliver high-quality work on time.",
   },
